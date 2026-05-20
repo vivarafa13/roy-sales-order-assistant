@@ -5,7 +5,7 @@ AI-powered multimodal sales assistant (Gemini API, Make, and Telegram) for real-
 ---
 
 ## 📝 Descripción del Proyecto
-Este proyecto implementa una solución de arquitectura Cloud-Native y Multimodal diseñada para optimizar la toma de pedidos en el sector de consumo masivo (P&G). A través de un bot de Telegram, los preventistas en la calle pueden dictar un pedido por nota de voz; el sistema procesa el audio de forma asincrónica en la nube y extrae variables estructuradas directamente hacia un sistema de reportes analíticos.
+Este proyecto implementa una solución de arquitectura Cloud-Native y Multimodal diseñada para optimizar la toma de pedidos en el sector de consumo masivo. A través de un bot de Telegram, los preventistas en la calle pueden dictar un pedido por nota de voz; el sistema procesa el audio de forma asincrónica en la nube y extrae variables estructuradas directamente hacia un sistema de reportes analíticos.
 
 ## 🏗️ Arquitectura del Sistema
 El flujo de datos opera de forma 100% asincrónica en la nube, optimizando el uso de hardware local (Cómputo Local Cero):
