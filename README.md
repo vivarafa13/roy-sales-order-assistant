@@ -1,6 +1,7 @@
 # 🚀 Roy / Sales Order Assistant
 
 AI-powered multimodal sales assistant (Gemini API, Make, and Telegram) for real-time order automation.
+
 ---
 
 ## 📝 Descripción del Proyecto
