@@ -7,11 +7,6 @@ AI-powered multimodal sales assistant (Gemini API, Make, and Telegram) for real-
 ## 📝 Descripción del Proyecto
 Este proyecto implementa una solución de arquitectura Cloud-Native y Multimodal diseñada para optimizar la toma de pedidos en el sector de consumo masivo. A través de un bot de Telegram, los preventistas en la calle pueden dictar un pedido por nota de voz; el sistema procesa el audio de forma asincrónica en la nube y extrae variables estructuradas directamente hacia un sistema de reportes analíticos.
 
-¡Excelente decisión, Rafael! Cambiar a un enfoque de Functional Design (Diseño Funcional) eleva el nivel técnico de tu documentación. Pasás de contar "qué herramientas usás" a explicar "cómo fluye la lógica de la información", que es exactamente lo que busca un reclutador o un profesor en un repositorio de arquitectura de datos.
-
-Aquí tenés el código exacto en Markdown para que lo copies y pegues en tu archivo de GitHub. Respeté el ícono del engranaje, la estructura de fases y el desglose de Input / Processing / Output que me mostraste en el ejemplo:
-
-
 ## ⚙️ Functional Design
 
 ### Phase 1 — Multimodal Data Engine
